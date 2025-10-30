@@ -1,0 +1,37 @@
+Identify and Remove Suspicious Browser Extensions
+
+step 1:Opened Browser Extension Manager:
+In Chrome, navigated to chrome://extensions/ to view all installed extensions.
+
+step2:Reviewed Installed Extensions:
+Carefully checked the list of all extensions currently enabled and installed.
+
+step 3:Checked Permissions and Reviews:
+Noted what kind of data access each extension had (e.g., “Read and change all your data on websites”).
+Looked up reviews and ratings on the Chrome Web Store for authenticity.
+
+step 4:Identified Suspicious or Unused Extensions:
+Found some extensions that were not in regular use or seemed unnecessary.
+Verified if any were installed without clear knowledge or had bad reviews online.
+
+step 5:Removed Suspicious Extensions:
+Uninstalled the unused or doubtful extensions by clicking “Remove” on each one.
+
+step 6:Restarted the Browser:
+Relaunched Chrome to ensure all changes took effect and checked browser performance.
+Learned that malicious extensions can:
+Track user activity and steal personal data.
+Inject unwanted ads or redirect web traffic.
+Slow down browsing speed or consume system resources.
+
+
+
+
+
+
+
+
+
+
+
+
